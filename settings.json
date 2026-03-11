@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "bosmp13.aternos.me",
-    "port": 56996,
+    "ip": "survival3169.aternos.me",
+    "port": 15200,
     "version": "1.21.11",
     "try-creative": false
   },
